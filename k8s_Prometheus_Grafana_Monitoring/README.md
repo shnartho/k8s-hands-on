@@ -32,3 +32,9 @@ grafana-cli dashboard import https://grafana.com/api/dashboards/11193
 grafana-cli dashboard list
 grafana-cli dashboard delete 11193
 ```
+
+**Screenshots:**
+
+![1](./images/1.png)
+![2](./images/2.png)
+![3](./images/3.png)
